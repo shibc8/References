@@ -1,0 +1,43 @@
+git init
+
+
+git status
+
+git add .
+or
+git add fileName.txt
+
+
+git commit -m commitMessage
+
+git log
+
+git branch
+git branch -r
+
+git remote add origin https://github.com/****.git
+
+git remote
+
+git remote -v
+
+git push -u origin master
+
+
+
+
+git clone https:***.git
+
+git push
+
+
+git fetch
+
+
+git checkout 
+
+git merge
+
+
+git pull
+
