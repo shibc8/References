@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='6'>
+    <iu id='org.sf.feeling.decompiler.feature.group' name='Enhanced Class Decompiler (Core)' version='3.1.1.201811062102'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sf.feeling.decompiler.cfr.feature.group' name='Enhanced Class Decompiler CFR Extension (Optional)' version='3.1.1.201811062102'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sf.feeling.decompiler.jad.feature.group' name='Enhanced Class Decompiler Jad Extension (Optional)' version='3.1.1.201811062102'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sf.feeling.decompiler.jd.feature.group' name='Enhanced Class Decompiler JD-Core Extension (Optional)' version='3.1.1.201811062102'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sf.feeling.decompiler.procyon.feature.group' name='Enhanced Class Decompiler Procyon Extension (Optional)' version='3.1.1.201811062102'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sf.feeling.decompiler.source.feature.group' name='Enhanced Class Decompiler Source (Optional)' version='3.1.1.201811062102'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
